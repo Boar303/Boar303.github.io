@@ -12,7 +12,7 @@ title                    : "Qianye YU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://boar303.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "An undergraduate student of WHU"
   location         : "Wuhan"
   employer         : "Wuhan University"
-  uri              : "https://academicpages.github.io/"
+  uri              : "https://boar303.github.io/"
   email            : "2021302021039@whu.edu.cn" 
 
   # Academic websites
