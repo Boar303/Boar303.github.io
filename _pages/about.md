@@ -9,13 +9,13 @@ redirect_from:
 
 Welcome to my homepage!
 
-I'm an undergraduate student in Physics Department of Wuhan University. I will become a graduate student in Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS) in 2025. Gravity and cosmology appeal to me a lot. 
+I'm an undergraduate student in Physics Department of Wuhan University. I will become a graduate student in Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS) in 2025. **Gravity** and **cosmology** appeal to me a lot. 
 
 Nowadays I'm studying quantum field theory(QFT), cosmology and fibre bundle (fibre bundle is closely related to gauge field theory).
 
 Academic Background
 ======
-Sep 2021 - Now : Physics Department, Wuhan University 
+**Sep 2021 - Now:**  Physics Department, Wuhan University 
 
 Getting started
 ======
